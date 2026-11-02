@@ -1,0 +1,10 @@
+# Publication environment: Python 3.10.11. Notebook editor installed separately.
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.2
+matplotlib==3.10.7
+threadpoolctl==3.6.0
+ipykernel==7.1.0
+ipython==8.37.0
+matplotlib-inline==0.2.1

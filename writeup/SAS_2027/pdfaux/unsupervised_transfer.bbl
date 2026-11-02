@@ -1,0 +1,662 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{verzeroli2025MoxOutdoor}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=07790f4791ac05ba426713bc9cc17b12}{%
+           family={Verzeroli},
+           familyi={V\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a1acc69a5444612a71ed19704f207e0b}{%
+           family={Gaioni},
+           familyi={G\bibinitperiod},
+           given={Luigi},
+           giveni={L\bibinitperiod}}}%
+        {{hash=93f581d95795b5deb2a5a79e70af0885}{%
+           family={Lazzaroni},
+           familyi={L\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{292ba78bfa02868e88b8165d531646ca}
+      \strng{fullhash}{a6380999f9500a95843709c50fbf688b}
+      \strng{fullhashraw}{a6380999f9500a95843709c50fbf688b}
+      \strng{bibnamehash}{a6380999f9500a95843709c50fbf688b}
+      \strng{authorbibnamehash}{a6380999f9500a95843709c50fbf688b}
+      \strng{authornamehash}{292ba78bfa02868e88b8165d531646ca}
+      \strng{authorfullhash}{a6380999f9500a95843709c50fbf688b}
+      \strng{authorfullhashraw}{a6380999f9500a95843709c50fbf688b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2025 IEEE Sensors Applications Symposium (SAS)}
+      \field{title}{Assessing Low-Cost PM and MOx Sensors for Enhanced Outdoor Air Quality Monitoring}
+      \field{year}{2025}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/SAS65169.2025.11105168
+      \endverb
+      \keyw{Resistance;Correlation;Atmospheric measurements;Atmospheric modeling;Sensor phenomena and characterization;Optical variables measurement;Air quality;Particle measurements;Sensors;Optical sensors;environmental monitoring;optical counter;metal-oxide sensor;outdoor air quality}
+    \endentry
+    \entry{laska2025spoilage}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=ab53ff03c751514d9c6d908ebf8ebd74}{%
+           family={Laska},
+           familyi={L\bibinitperiod},
+           given={Brady},
+           giveni={B\bibinitperiod}}}%
+        {{hash=248571c635b646b995ea400fd975a690}{%
+           family={Wallace},
+           familyi={W\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod}}}%
+        {{hash=55d3e76d457df6547546acc4405881ed}{%
+           family={Goubran},
+           familyi={G\bibinitperiod},
+           given={Rafik},
+           giveni={R\bibinitperiod}}}%
+        {{hash=246039dcaf10230f3ed76b1eb4308049}{%
+           family={Knoefel},
+           familyi={K\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{67fa356ff95f80724fbca76411b0f8a2}
+      \strng{fullhash}{e61738653f3db850d2c4c4fc88d2170e}
+      \strng{fullhashraw}{e61738653f3db850d2c4c4fc88d2170e}
+      \strng{bibnamehash}{e61738653f3db850d2c4c4fc88d2170e}
+      \strng{authorbibnamehash}{e61738653f3db850d2c4c4fc88d2170e}
+      \strng{authornamehash}{67fa356ff95f80724fbca76411b0f8a2}
+      \strng{authorfullhash}{e61738653f3db850d2c4c4fc88d2170e}
+      \strng{authorfullhashraw}{e61738653f3db850d2c4c4fc88d2170e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2025 IEEE Medical Measurements \& Applications (MeMeA)}
+      \field{title}{Environment-Compensated Gas Sensor Time-Series Analysis for Tracking Food Spoilage}
+      \field{year}{2025}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/MeMeA65319.2025.11068061
+      \endverb
+      \keyw{Temperature sensors;Gases;Dairy products;Smart homes;Aging;Sensors;Calibration;Older adults;Gas detectors;Intelligent sensors;smart home;aging in place;e-nose;gas sensor}
+    \endentry
+    \entry{lee1999TemperatureModulation}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=0f7d5b3787b382269dd2f0f251201306}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Andrew\bibnamedelima P},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8d178c9e4975ddbaac2d8164bc2a418d}{%
+           family={Reedy},
+           familyi={R\bibinitperiod},
+           given={Brian\bibnamedelima J},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{56b6ca171abef86743a01dc3fe29da7c}
+      \strng{fullhash}{56b6ca171abef86743a01dc3fe29da7c}
+      \strng{fullhashraw}{56b6ca171abef86743a01dc3fe29da7c}
+      \strng{bibnamehash}{56b6ca171abef86743a01dc3fe29da7c}
+      \strng{authorbibnamehash}{56b6ca171abef86743a01dc3fe29da7c}
+      \strng{authornamehash}{56b6ca171abef86743a01dc3fe29da7c}
+      \strng{authorfullhash}{56b6ca171abef86743a01dc3fe29da7c}
+      \strng{authorfullhashraw}{56b6ca171abef86743a01dc3fe29da7c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0925-4005}
+      \field{journaltitle}{Sensors and Actuators B: Chemical}
+      \field{number}{1}
+      \field{title}{Temperature modulation in semiconductor gas sensing}
+      \field{volume}{60}
+      \field{year}{1999}
+      \field{pages}{35\bibrangedash 42}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0925-4005(99)00241-5
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0925400599002415
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0925400599002415
+      \endverb
+      \keyw{Semiconductor gas sensor,Tin oxide,Temperature modulation,Dynamic response,Thermal cycling,Multi-component gas analysis}
+    \endentry
+    \entry{hussain2023DLGasClassify}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{hash=cd1b8386b682cdc2b51c196fbe045f73}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Mazhar},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7811415de1f9a9cdb549d0ed7eebcc8b}{%
+           family={O'Nils},
+           familyi={O\bibinitperiod},
+           given={Mattias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0557d44921bc4d09f7a03380850a151a}{%
+           family={Lundgren},
+           familyi={L\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4d721f23e987ead594f244f4b6efe11c}{%
+           family={Saatlu},
+           familyi={S\bibinitperiod},
+           given={Mehdi\bibnamedelima Akbari},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=64d89478e7399dac435a92da7e2771a1}{%
+           family={Hamrin},
+           familyi={H\bibinitperiod},
+           given={Rikard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7496eb194619ce35013fff841ddb9960}{%
+           family={Mattsson},
+           familyi={M\bibinitperiod},
+           given={Claes},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c68c097398197c633d35ff3a6adab71a}
+      \strng{fullhash}{b685600219b0de715d766237c52b82bb}
+      \strng{fullhashraw}{b685600219b0de715d766237c52b82bb}
+      \strng{bibnamehash}{b685600219b0de715d766237c52b82bb}
+      \strng{authorbibnamehash}{b685600219b0de715d766237c52b82bb}
+      \strng{authornamehash}{c68c097398197c633d35ff3a6adab71a}
+      \strng{authorfullhash}{b685600219b0de715d766237c52b82bb}
+      \strng{authorfullhashraw}{b685600219b0de715d766237c52b82bb}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 IEEE Sensors Applications Symposium (SAS)}
+      \field{title}{A Deep Learning Approach for Classification and Measurement of Hazardous Gases Using Multi-Sensor Data Fusion}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/SAS58821.2023.10254191
+      \endverb
+      \keyw{Deep learning;Training;Target recognition;Hydrogen;Data integration;Data models;Sensors;Gas measurement;Pulp & Paper;Multi-sensor;Data fusion;Machine learning;Deep learning;CNN;1D-CNN;SVM;LSTM;Gas classification}
+    \endentry
+    \entry{panzardi2025bme688}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=eb59c4250d0b65f0f261664a6166f8c2}{%
+           family={Panzardi},
+           familyi={P\bibinitperiod},
+           given={Enza},
+           giveni={E\bibinitperiod}}}%
+        {{hash=4f016db29b199ec481a949c3174dbe53}{%
+           family={Fort},
+           familyi={F\bibinitperiod},
+           given={Ada},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a362e1ee0673152f49ecfe23ff07aa6a}{%
+           family={Vignoli},
+           familyi={V\bibinitperiod},
+           given={Valerio},
+           giveni={V\bibinitperiod}}}%
+        {{hash=af618361dc7bfd3f1f1f1eeadb14a861}{%
+           family={Cappelli},
+           familyi={C\bibinitperiod},
+           given={Irene},
+           giveni={I\bibinitperiod}}}%
+        {{hash=a1acc69a5444612a71ed19704f207e0b}{%
+           family={Gaioni},
+           familyi={G\bibinitperiod},
+           given={Luigi},
+           giveni={L\bibinitperiod}}}%
+        {{hash=07790f4791ac05ba426713bc9cc17b12}{%
+           family={Verzeroli},
+           familyi={V\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3917030dfd83a92a3aaf8a05bac6e0cc}{%
+           family={Dello\bibnamedelima Iacono},
+           familyi={D\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={Salvatore},
+           giveni={S\bibinitperiod}}}%
+        {{hash=23f655c9761944fcde1d341d5482f4dd}{%
+           family={Flammini},
+           familyi={F\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd4950a41a082e40cc8b5dd4f481173e}
+      \strng{fullhash}{3429110855acf859ec254d0bda8b99a8}
+      \strng{fullhashraw}{3429110855acf859ec254d0bda8b99a8}
+      \strng{bibnamehash}{cd4950a41a082e40cc8b5dd4f481173e}
+      \strng{authorbibnamehash}{cd4950a41a082e40cc8b5dd4f481173e}
+      \strng{authornamehash}{cd4950a41a082e40cc8b5dd4f481173e}
+      \strng{authorfullhash}{3429110855acf859ec254d0bda8b99a8}
+      \strng{authorfullhashraw}{3429110855acf859ec254d0bda8b99a8}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{23}
+      \field{title}{Assessing {BME688} Sensor Performance Under Controlled Outdoor-like Environmental Conditions}
+      \field{volume}{25}
+      \field{year}{2025}
+      \field{pages}{7102}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s25237102
+      \endverb
+    \endentry
+    \entry{dennler2022drift}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=9c92a5d3c458bd9aeda06734b0d13146}{%
+           family={Dennler},
+           familyi={D\bibinitperiod},
+           given={Nik},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d7c3cb2f82861cb299ff1f45a3336467}{%
+           family={Rastogi},
+           familyi={R\bibinitperiod},
+           given={Shavika},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4ae7da81d762263f2827afa3818a2299}{%
+           family={Fonollosa},
+           familyi={F\bibinitperiod},
+           given={Jordi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9ea514316054e531000b37f8cd17d385}{%
+           family={{van Schaik}},
+           familyi={v\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bca9c69a6fd6e336710299befb40718f}{%
+           family={Schmuker},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{acae8256ee1d6017637f61141bf44533}
+      \strng{fullhash}{e9675452fad52de524970c1b7d9223b5}
+      \strng{fullhashraw}{e9675452fad52de524970c1b7d9223b5}
+      \strng{bibnamehash}{e9675452fad52de524970c1b7d9223b5}
+      \strng{authorbibnamehash}{e9675452fad52de524970c1b7d9223b5}
+      \strng{authornamehash}{acae8256ee1d6017637f61141bf44533}
+      \strng{authorfullhash}{e9675452fad52de524970c1b7d9223b5}
+      \strng{authorfullhashraw}{e9675452fad52de524970c1b7d9223b5}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0925-4005}
+      \field{journaltitle}{Sensors and Actuators B: Chemical}
+      \field{title}{Drift in a popular metal oxide sensor dataset reveals limitations for gas classification benchmarks}
+      \field{volume}{361}
+      \field{year}{2022}
+      \field{pages}{131668}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.snb.2022.131668
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0925400522003100
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0925400522003100
+      \endverb
+      \keyw{Metal oxide gas sensors,Wind tunnel dataset,Sensor drift,Gas recognition}
+    \endentry
+    \entry{fernandez2016transfer}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=988781fe989f1b1b46efaec9de5d5782}{%
+           family={Fernández},
+           familyi={F\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1d4773c57a8b3eb4606b1c097e1fbed7}{%
+           family={Güney},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=359c3835c8c0f953d2bd8c889dec8d1a}{%
+           family={Gutiérrez-Gálvez},
+           familyi={G\bibinithyphendelim G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=771c768b25d2a29770adb63d454c29a4}{%
+           family={Marco},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{93e654f5719fa95cdb67c0908b9edcdc}
+      \strng{fullhash}{7482d58a17b91bed5f6dbf9ea2f9b0cb}
+      \strng{fullhashraw}{7482d58a17b91bed5f6dbf9ea2f9b0cb}
+      \strng{bibnamehash}{7482d58a17b91bed5f6dbf9ea2f9b0cb}
+      \strng{authorbibnamehash}{7482d58a17b91bed5f6dbf9ea2f9b0cb}
+      \strng{authornamehash}{93e654f5719fa95cdb67c0908b9edcdc}
+      \strng{authorfullhash}{7482d58a17b91bed5f6dbf9ea2f9b0cb}
+      \strng{authorfullhashraw}{7482d58a17b91bed5f6dbf9ea2f9b0cb}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors and Actuators B: Chemical}
+      \field{title}{Calibration transfer in temperature modulated gas sensor arrays}
+      \field{volume}{231}
+      \field{year}{2016}
+      \field{pages}{276\bibrangedash 284}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.snb.2016.02.131
+      \endverb
+    \endentry
+    \entry{miquelibarz2022global}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=fcb0c90780f1ab519288f1e4b5ca78c6}{%
+           family={Miquel-Ibarz},
+           familyi={M\bibinithyphendelim I\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1f1791a4fba8ba3a39afe5c465ab9976}{%
+           family={Burgués},
+           familyi={B\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=547e5505ab5423e2b5660b010c17f1dd}{%
+           family={Marco},
+           familyi={M\bibinitperiod},
+           given={Santiago},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{695ca6dcfab0442995d1efbada65fd80}
+      \strng{fullhash}{2b85cf7481497ac9307b1787c787280c}
+      \strng{fullhashraw}{2b85cf7481497ac9307b1787c787280c}
+      \strng{bibnamehash}{2b85cf7481497ac9307b1787c787280c}
+      \strng{authorbibnamehash}{2b85cf7481497ac9307b1787c787280c}
+      \strng{authornamehash}{695ca6dcfab0442995d1efbada65fd80}
+      \strng{authorfullhash}{2b85cf7481497ac9307b1787c787280c}
+      \strng{authorfullhashraw}{2b85cf7481497ac9307b1787c787280c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors and Actuators B: Chemical}
+      \field{title}{Global calibration models for temperature-modulated metal oxide gas sensors: A strategy to reduce calibration costs}
+      \field{volume}{350}
+      \field{year}{2022}
+      \field{pages}{130769}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.snb.2021.130769
+      \endverb
+    \endentry
+    \entry{sumanto2026calibration}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=ee740b1e8fec120355ad3e69139be064}{%
+           family={Sumanto},
+           familyi={S\bibinitperiod},
+           given={Budi},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b09e8ccb1fb996e7ce7774f603ed9919}{%
+           family={Triyana},
+           familyi={T\bibinitperiod},
+           given={Kuwat},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8a6716c69f4be5a31d13a24586d56489}{%
+           family={Kusumaatmaja},
+           familyi={K\bibinitperiod},
+           given={Ahmad},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{655265e5ddbf2b5be63e13d2c619b4c3}
+      \strng{fullhash}{2233dc54786503cf6c4ddf6655dd9870}
+      \strng{fullhashraw}{2233dc54786503cf6c4ddf6655dd9870}
+      \strng{bibnamehash}{2233dc54786503cf6c4ddf6655dd9870}
+      \strng{authorbibnamehash}{2233dc54786503cf6c4ddf6655dd9870}
+      \strng{authornamehash}{655265e5ddbf2b5be63e13d2c619b4c3}
+      \strng{authorfullhash}{2233dc54786503cf6c4ddf6655dd9870}
+      \strng{authorfullhashraw}{2233dc54786503cf6c4ddf6655dd9870}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Instrumentation Science \& Technology}
+      \field{number}{1}
+      \field{title}{Optimized calibration for metal oxide gas sensor arrays to overcome tool variability}
+      \field{volume}{54}
+      \field{year}{2026}
+      \field{pages}{118\bibrangedash 135}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1080/10739149.2025.2504478
+      \endverb
+    \endentry
+    \entry{boschBME690}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=d2691bddb971d727ae403cee120362a3}{%
+           family={{Bosch Sensortec}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2691bddb971d727ae403cee120362a3}
+      \strng{fullhash}{d2691bddb971d727ae403cee120362a3}
+      \strng{fullhashraw}{d2691bddb971d727ae403cee120362a3}
+      \strng{bibnamehash}{d2691bddb971d727ae403cee120362a3}
+      \strng{authorbibnamehash}{d2691bddb971d727ae403cee120362a3}
+      \strng{authornamehash}{d2691bddb971d727ae403cee120362a3}
+      \strng{authorfullhash}{d2691bddb971d727ae403cee120362a3}
+      \strng{authorfullhashraw}{d2691bddb971d727ae403cee120362a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2026-10-05}
+      \field{title}{{BME690} Datasheet}
+      \verb{urlraw}
+      \verb https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme690-ds001.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme690-ds001.pdf
+      \endverb
+    \endentry
+    \entry{feng2026smellnet}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{hash=61175d2dee6e7b1769dd00fadcd451dc}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Dewei},
+           giveni={D\bibinitperiod}}}%
+        {{hash=9df66f26414e5a0bebb294d519fa5f56}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=cc3abcfda0379fdcfd7f5621735a66a1}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Carol},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7552f8b5c34adbce483952f9bca3904f}{%
+           family={Pernigo},
+           familyi={P\bibinitperiod},
+           given={Alistair},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b8fd6bf0d698b126eb59a8b084da38af}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc27355f02b5e3f8ea5e598d4e774ac8}
+      \strng{fullhash}{b8740e396903eb63e52634489f8b6013}
+      \strng{fullhashraw}{b8740e396903eb63e52634489f8b6013}
+      \strng{bibnamehash}{b8740e396903eb63e52634489f8b6013}
+      \strng{authorbibnamehash}{b8740e396903eb63e52634489f8b6013}
+      \strng{authornamehash}{dc27355f02b5e3f8ea5e598d4e774ac8}
+      \strng{authorfullhash}{b8740e396903eb63e52634489f8b6013}
+      \strng{authorfullhashraw}{b8740e396903eb63e52634489f8b6013}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Learning Representations}
+      \field{title}{SmellNet: A Dataset for Sensor-Based Smell Recognition and Mixture Prediction}
+      \field{volume}{2026}
+      \field{year}{2026}
+      \field{pages}{103061\bibrangedash 103092}
+      \range{pages}{32}
+    \endentry
+    \entry{bolton1980computation}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=0b5c90fed25bb933b938e1b917503c58}{%
+           family={Bolton},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b5c90fed25bb933b938e1b917503c58}
+      \strng{fullhash}{0b5c90fed25bb933b938e1b917503c58}
+      \strng{fullhashraw}{0b5c90fed25bb933b938e1b917503c58}
+      \strng{bibnamehash}{0b5c90fed25bb933b938e1b917503c58}
+      \strng{authorbibnamehash}{0b5c90fed25bb933b938e1b917503c58}
+      \strng{authornamehash}{0b5c90fed25bb933b938e1b917503c58}
+      \strng{authorfullhash}{0b5c90fed25bb933b938e1b917503c58}
+      \strng{authorfullhashraw}{0b5c90fed25bb933b938e1b917503c58}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Monthly Weather Review}
+      \field{number}{7}
+      \field{title}{The Computation of Equivalent Potential Temperature}
+      \field{volume}{108}
+      \field{year}{1980}
+      \field{pages}{1046\bibrangedash 1053}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1175/1520-0493(1980)108<1046:TCOEPT>2.0.CO;2
+      \endverb
+    \endentry
+    \entry{yamazoe2008theory}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=4c704214ec87be4e46a92b03252fbca3}{%
+           family={Yamazoe},
+           familyi={Y\bibinitperiod},
+           given={Noboru},
+           giveni={N\bibinitperiod}}}%
+        {{hash=b809235bddc0296d24cb34b7a29b2ed9}{%
+           family={Shimanoe},
+           familyi={S\bibinitperiod},
+           given={Kengo},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{18976fc7824be95c9ec05f7cb6c8f226}
+      \strng{fullhash}{18976fc7824be95c9ec05f7cb6c8f226}
+      \strng{fullhashraw}{18976fc7824be95c9ec05f7cb6c8f226}
+      \strng{bibnamehash}{18976fc7824be95c9ec05f7cb6c8f226}
+      \strng{authorbibnamehash}{18976fc7824be95c9ec05f7cb6c8f226}
+      \strng{authornamehash}{18976fc7824be95c9ec05f7cb6c8f226}
+      \strng{authorfullhash}{18976fc7824be95c9ec05f7cb6c8f226}
+      \strng{authorfullhashraw}{18976fc7824be95c9ec05f7cb6c8f226}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It has long been known empirically that the electric resistance of a semiconductor gas sensor under exposure to a target gas (partial pressure P) is proportional to Pn where n is a constant fairly specific to the kind of target gas (power law). This paper aims at providing a theoretical basis to such power laws. It is shown that the laws can be derived by combining a depletion theory of semiconductor, which deals with the distribution of electrons between surface state (surface charge) and bulk, with the dynamics of adsorption and/or reactions of gases on the surface, which is responsible for accumulation or reduction of surface charges. The resulting laws describe well sensor response behavior to oxygen, reducing gases and oxidizing gases.}
+      \field{day}{15}
+      \field{issn}{0925-4005}
+      \field{journaltitle}{Sensors and Actuators B: Chemical}
+      \field{month}{1}
+      \field{number}{2}
+      \field{shortjournal}{Sensors and Actuators B: Chemical}
+      \field{title}{Theory of power laws for semiconductor gas sensors}
+      \field{urlday}{21}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{volume}{128}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{566\bibrangedash 573}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.snb.2007.07.036
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\blask\\Zotero\\storage\\NDF3Y8FZ\\S0925400507005175.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0925400507005175
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0925400507005175
+      \endverb
+      \keyw{Gas sensor,Metal oxide,Power law,Semiconductor}
+    \endentry
+    \entry{sun2016coral}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=42b4adc0348faf8eb90a193ad3ef852f}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Baochen},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ee4de6563d3aa74999c7a69f8f345e56}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Jiashi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=df6dd5c482f41a42e672eecaa779020c}{%
+           family={Saenko},
+           familyi={S\bibinitperiod},
+           given={Kate},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{961350e2fd6860ce3694a5aefd579984}
+      \strng{fullhash}{cc5e7b91e6d7d6755b98fa45c0ac9de5}
+      \strng{fullhashraw}{cc5e7b91e6d7d6755b98fa45c0ac9de5}
+      \strng{bibnamehash}{cc5e7b91e6d7d6755b98fa45c0ac9de5}
+      \strng{authorbibnamehash}{cc5e7b91e6d7d6755b98fa45c0ac9de5}
+      \strng{authornamehash}{961350e2fd6860ce3694a5aefd579984}
+      \strng{authorfullhash}{cc5e7b91e6d7d6755b98fa45c0ac9de5}
+      \strng{authorfullhashraw}{cc5e7b91e6d7d6755b98fa45c0ac9de5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the AAAI Conference on Artificial Intelligence}
+      \field{number}{1}
+      \field{title}{Return of Frustratingly Easy Domain Adaptation}
+      \field{volume}{30}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1609/aaai.v30i1.10306
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

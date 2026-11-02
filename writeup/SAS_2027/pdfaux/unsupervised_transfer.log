@@ -1,0 +1,627 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.8)  27 OCT 2026 15:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/blask/Projects/smell/writeup/SAS_2027/unsupervised_transfer.tex
+(c:/Users/blask/Projects/smell/writeup/SAS_2027/unsupervised_transfer.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-08-10>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen150
+\@IEEEtrantmpdimenB=\dimen151
+\@IEEEtrantmpdimenC=\dimen152
+\@IEEEtrantmpcountA=\count276
+\@IEEEtrantmpcountB=\count277
+\@IEEEtrantmpcountC=\count278
+\@IEEEtrantmptoksA=\toks17
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
+(c:/texlive/2026/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen153
+-- This is a 10 point document.
+LaTeX Encoding Info:    Redeclaring text command \textunderscore (encoding ?) on input line 937.
+\CLASSINFOnormalsizebaselineskip=\dimen154
+\CLASSINFOnormalsizeunitybaselineskip=\dimen155
+\IEEEnormaljot=\dimen156
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+\IEEEquantizedlength=\dimen157
+\IEEEquantizedlengthdiff=\dimen158
+\IEEEquantizedtextheightdiff=\dimen159
+\IEEEilabelindentA=\dimen160
+\IEEEilabelindentB=\dimen161
+\IEEEilabelindent=\dimen162
+\IEEEelabelindent=\dimen163
+\IEEEdlabelindent=\dimen164
+\IEEElabelindent=\dimen165
+\IEEEiednormlabelsep=\dimen166
+\IEEEiedmathlabelsep=\dimen167
+\IEEEiedtopsep=\skip49
+\c@section=\count279
+\c@subsection=\count280
+\c@subsubsection=\count281
+\c@paragraph=\count282
+\c@IEEEsubequation=\count283
+\abovecaptionskip=\skip50
+\belowcaptionskip=\skip51
+\c@figure=\count284
+\c@table=\count285
+\@IEEEeqnnumcols=\count286
+\@IEEEeqncolcnt=\count287
+\@IEEEsubeqnnumrollback=\count288
+\@IEEEquantizeheightA=\dimen168
+\@IEEEquantizeheightB=\dimen169
+\@IEEEquantizeheightC=\dimen170
+\@IEEEquantizeprevdepth=\dimen171
+\@IEEEquantizemultiple=\count289
+\@IEEEquantizeboxA=\box53
+\@IEEEtmpitemindent=\dimen172
+\IEEEPARstartletwidth=\dimen173
+\c@IEEEbiography=\count290
+\@IEEEtranrubishbin=\box54
+) (c:/texlive/2026/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2026/05/19 v2.18d AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2026/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (c:/texlive/2026/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen174
+)) (c:/texlive/2026/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen175
+) (c:/texlive/2026/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count291
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count292
+\leftroot@=\count293
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count294
+\DOTSCASE@=\count295
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen176
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count296
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count297
+\dotsspace@=\muskip17
+\c@parentequation=\count298
+\dspbrk@lvl=\count299
+\tag@help=\toks19
+\row@=\count300
+\column@=\count301
+\maxfields@=\count302
+\andhelp@=\toks20
+\eqnshift@=\dimen177
+\alignsep@=\dimen178
+\tagshift@=\dimen179
+\tagwidth@=\dimen180
+\totwidth@=\dimen181
+\lineht@=\dimen182
+\@envbody=\toks21
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2965.
+LaTeX Info: Redefining \] on input line 2966.
+) (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (c:/texlive/2026/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+ (c:/texlive/2026/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+\c@ALC@unique=\count303
+\c@ALC@line=\count304
+\c@ALC@rem=\count305
+\c@ALC@depth=\count306
+\ALC@tlm=\skip55
+\algorithmicindent=\skip56
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen183
+\Gin@req@width=\dimen184
+) (c:/texlive/2026/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (c:/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (c:/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (c:/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2026/08/13 v3.22 programmable bibliographies (PK/MW)
+ (c:/texlive/2026/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2026/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (c:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+) (c:/texlive/2026/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (c:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count307
+) (c:/texlive/2026/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (c:/texlive/2026/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (c:/texlive/2026/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count308
+ (c:/texlive/2026/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (c:/texlive/2026/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count309
+\c@listtotal=\count310
+\c@listcount=\count311
+\c@liststart=\count312
+\c@liststop=\count313
+\c@citecount=\count314
+\c@citetotal=\count315
+\c@multicitecount=\count316
+\c@multicitetotal=\count317
+\c@instcount=\count318
+\c@maxnames=\count319
+\c@minnames=\count320
+\c@maxitems=\count321
+\c@minitems=\count322
+\c@citecounter=\count323
+\c@maxcitecounter=\count324
+\c@savedcitecounter=\count325
+\c@uniquelist=\count326
+\c@uniquename=\count327
+\c@refsection=\count328
+\c@refsegment=\count329
+\c@maxextratitle=\count330
+\c@maxextratitleyear=\count331
+\c@maxextraname=\count332
+\c@maxextradate=\count333
+\c@maxextraalpha=\count334
+\c@abbrvpenalty=\count335
+\c@highnamepenalty=\count336
+\c@lownamepenalty=\count337
+\c@maxparens=\count338
+\c@parenlevel=\count339
+\blx@tempcnta=\count340
+\blx@tempcntb=\count341
+\blx@tempcntc=\count342
+\c@blx@maxsection=\count343
+\blx@maxsegment@0=\count344
+\blx@notetype=\count345
+\blx@parenlevel@text=\count346
+\blx@parenlevel@foot=\count347
+\blx@sectionciteorder@0=\count348
+\blx@sectionciteorderinternal@0=\count349
+\blx@entrysetcounter=\count350
+\blx@biblioinstance=\count351
+\labelnumberwidth=\skip57
+\labelalphawidth=\skip58
+\biblabelsep=\skip59
+\bibitemsep=\skip60
+\bibnamesep=\skip61
+\bibinitsep=\skip62
+\bibparsep=\skip63
+\bibhang=\skip64
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language91
+\c@mincomprange=\count352
+\c@maxcomprange=\count353
+\c@mincompwidth=\count354
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (c:/texlive/2026/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2026/08/13 v3.22 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count355
+\c@savedafterword=\count356
+\c@annotator=\count357
+\c@savedannotator=\count358
+\c@author=\count359
+\c@savedauthor=\count360
+\c@bookauthor=\count361
+\c@savedbookauthor=\count362
+\c@commentator=\count363
+\c@savedcommentator=\count364
+\c@editor=\count365
+\c@savededitor=\count366
+\c@editora=\count367
+\c@savededitora=\count368
+\c@editorb=\count369
+\c@savededitorb=\count370
+\c@editorc=\count371
+\c@savededitorc=\count372
+\c@foreword=\count373
+\c@savedforeword=\count374
+\c@holder=\count375
+\c@savedholder=\count376
+\c@introduction=\count377
+\c@savedintroduction=\count378
+\c@namea=\count379
+\c@savednamea=\count380
+\c@nameb=\count381
+\c@savednameb=\count382
+\c@namec=\count383
+\c@savednamec=\count384
+\c@translator=\count385
+\c@savedtranslator=\count386
+\c@shortauthor=\count387
+\c@savedshortauthor=\count388
+\c@shorteditor=\count389
+\c@savedshorteditor=\count390
+\c@labelname=\count391
+\c@savedlabelname=\count392
+\c@institution=\count393
+\c@savedinstitution=\count394
+\c@lista=\count395
+\c@savedlista=\count396
+\c@listb=\count397
+\c@savedlistb=\count398
+\c@listc=\count399
+\c@savedlistc=\count400
+\c@listd=\count401
+\c@savedlistd=\count402
+\c@liste=\count403
+\c@savedliste=\count404
+\c@listf=\count405
+\c@savedlistf=\count406
+\c@location=\count407
+\c@savedlocation=\count408
+\c@organization=\count409
+\c@savedorganization=\count410
+\c@origlocation=\count411
+\c@savedoriglocation=\count412
+\c@origpublisher=\count413
+\c@savedorigpublisher=\count414
+\c@publisher=\count415
+\c@savedpublisher=\count416
+\c@language=\count417
+\c@savedlanguage=\count418
+\c@origlanguage=\count419
+\c@savedoriglanguage=\count420
+\c@pageref=\count421
+\c@savedpageref=\count422
+\shorthandwidth=\skip65
+\shortjournalwidth=\skip66
+\shortserieswidth=\skip67
+\shorttitlewidth=\skip68
+\shortauthorwidth=\skip69
+\shorteditorwidth=\skip70
+\locallabelnumberwidth=\skip71
+\locallabelalphawidth=\skip72
+\localshorthandwidth=\skip73
+\localshortjournalwidth=\skip74
+\localshortserieswidth=\skip75
+\localshorttitlewidth=\skip76
+\localshortauthorwidth=\skip77
+\localshorteditorwidth=\skip78
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (c:/texlive/2026/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2026/08/13 v3.22 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (c:/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2026/08/13 v3.22 biblatex compatibility (PK/MW)
+\c@textcitecount=\count423
+\c@textcitetotal=\count424
+\c@textcitemaxnames=\count425
+\c@biburlbigbreakpenalty=\count426
+\c@biburlbreakpenalty=\count427
+\c@biburlnumpenalty=\count428
+\c@biburlucpenalty=\count429
+\c@biburllcpenalty=\count430
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count431
+)
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
+ (c:/texlive/2026/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
+File: ieee.bbx 2025-08-01 v1.4f biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+ (c:/texlive/2026/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2026/08/13 v3.22 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (c:/texlive/2026/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2026/08/13 v3.22 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (c:/texlive/2026/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2026/08/13 v3.22 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count432
+\c@bbx:relatedtotal=\count433
+))))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+ (c:/texlive/2026/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+File: ieee.cbx 2025-08-01 v1.4f biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-verb'...
+Package biblatex Info: ... file 'numeric-verb.cbx' found.
+ (c:/texlive/2026/texmf-dist/tex/latex/biblatex/cbx/numeric-verb.cbx
+File: numeric-verb.cbx 2026/08/13 v3.22 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (c:/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (c:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2026-08-10 L3 programming layer (loader) 
+ (c:/texlive/2026/texmf-dist/tex/latex/l3kernel/l3backend-pdftex.def
+File: l3backend-pdftex.def 2026-08-10 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count434
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2026-08-10 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (c:/texlive/2026/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (c:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2026/08/13 v3.22 expl3 case changing code for biblatex
+))
+\@quotelevel=\count435
+\@quotereset=\count436
+ (pdfaux/unsupervised_transfer.aux)
+\openout1 = `unsupervised_transfer.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+-- Lines per column: 56 (exact).
+(c:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count437
+\scratchdimen=\dimen185
+\scratchbox=\box57
+\nofMPsegments=\count438
+\nofMParguments=\count439
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count440
+\MPscratchDim=\dimen186
+\MPnumerator=\count441
+\makeMPintoPDFobject=\count442
+\everyMPtoPDFconversion=\toks25
+) (c:/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (c:/texlive/2026/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2026/08/13 v3.22 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `unsupervised_transfer.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'unsupervised_transfer.bbl' found.
+ (pdfaux/unsupervised_transfer.bbl)
+Package biblatex Info: Reference section=0 on input line 15.
+Package biblatex Info: Reference segment=0 on input line 15.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
+ (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
+ (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc}
+
+
+]
+<figures/heater_profiles.png, id=10, 279.2031pt x 211.0284pt>
+File: figures/heater_profiles.png Graphic file (type png)
+<use figures/heater_profiles.png>
+Package pdftex.def Info: figures/heater_profiles.png  used on input line 102.
+(pdftex.def)             Requested size: 252.0pt x 190.47765pt.
+
+Underfull \hbox (badness 2245) in paragraph at lines 136--139
+[]\OT1/ptm/m/n/8 Almond, cashew, chest-nuts, hazel-nut, hick-ory nut,
+ []
+
+[2 <./figures/heater_profiles.png>]
+<figures/sensor_pairs_lda.png, id=23, 658.6206pt x 440.3652pt>
+File: figures/sensor_pairs_lda.png Graphic file (type png)
+<use figures/sensor_pairs_lda.png>
+Package pdftex.def Info: figures/sensor_pairs_lda.png  used on input line 263.
+(pdftex.def)             Requested size: 516.0pt x 345.03566pt.
+<figures/fingerprints.png, id=24, 642.7212pt x 343.0416pt>
+File: figures/fingerprints.png Graphic file (type png)
+<use figures/fingerprints.png>
+Package pdftex.def Info: figures/fingerprints.png  used on input line 272.
+(pdftex.def)             Requested size: 516.0pt x 275.4177pt.
+ [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./figures/sensor_pairs_lda.png>] [5 <./figures/fingerprints.png>]
+<figures/domain_adaptation.png, id=40, 311.4837pt x 275.3487pt>
+File: figures/domain_adaptation.png Graphic file (type png)
+<use figures/domain_adaptation.png>
+Package pdftex.def Info: figures/domain_adaptation.png  used on input line 350.
+(pdftex.def)             Requested size: 252.0pt x 222.77492pt.
+
+Underfull \hbox (badness 1622) in paragraph at lines 358--359
+[]\OT1/ptm/m/n/10 Per-step mean com-pen-sa-tion re-tains most of its full-
+ []
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[6 <./figures/domain_adaptation.png>] (pdfaux/unsupervised_transfer.aux)
+ ***********
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-08-10>
+ ***********
+Package logreq Info: Writing requests to 'unsupervised_transfer.run.xml'.
+\openout1 = `unsupervised_transfer.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 12495 strings out of 467099
+ 231864 string characters out of 5412497
+ 1090703 words of memory out of 5000000
+ 41696 multiletter control sequences out of 15000+600000
+ 669005 words of font info for 119 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,14n,67p,1573b,1226s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2026/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on pdfaux/unsupervised_transfer.pdf (6 pages, 1825060 bytes).
+PDF statistics:
+ 108 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
